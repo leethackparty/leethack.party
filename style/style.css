@@ -17,6 +17,7 @@
     text-align: center;
     margin-top: 50vh;
     font-size: 6em;
+    font-family: 'VT323', monospace;
 }
 
 .row:nth-child(odd)
